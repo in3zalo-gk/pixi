@@ -1,0 +1,4 @@
+<resources>
+    <!-- Segue claro/escuro do sistema e, no Android 12+, as cores do Material You -->
+    <style name="AppTheme" parent="android:Theme.DeviceDefault.DayNight" />
+</resources>
